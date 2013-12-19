@@ -1,0 +1,3 @@
+language: scala
+sacla:
+  - 2.10.1
